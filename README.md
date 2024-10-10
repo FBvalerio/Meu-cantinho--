@@ -1,2 +1,3 @@
 # Meu cantinho!!
- Primeiro repositorio versionado.
+ Primeiro repositorio criado do curso git e github.
+Repositorio criado durante uma aula.
